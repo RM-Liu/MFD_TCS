@@ -6,4 +6,4 @@ The code should be self-explanatory enough, for more details please refer to htt
 * **Upadated on 4th Jan, 2021**: Useless parts are removed to speed up the computation; more detailed comments are added
 
 # Questions
-For any questions or issues with the code, please contact liure at dtu dot dk.
+For any questions or issues with the code, please contact rmingliu at outlook dot com.
